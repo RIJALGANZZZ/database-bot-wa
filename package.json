@@ -1,0 +1,14 @@
+{
+  "name": "rijalganzz database",
+  "version": "1.0.0",
+  "description": "Rijalganzz ganteng",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "rijalganzz",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Rijalganzz",
+  "license": "MIT"
+}
